@@ -20,6 +20,7 @@ Aclaraciones:
   - Sonido de disparo.
   - Sonido de victoria (recompensa de acabar el juego).
   - Sonido 3D de cada zombie.
+  - Canciones de fondo.
 - Los audios utilizados fueron extraídos de:
   - https://www.youtube.com/watch?v=anlLbQeq8tA
   - https://www.youtube.com/watch?v=ulJD-suchSQ
